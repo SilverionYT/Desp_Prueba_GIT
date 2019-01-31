@@ -17,12 +17,7 @@ and open the template in the editor.
             echo "Segunda linea";
             echo "Tercera linea";
             echo "Voy a hacer un segundo COMMIT";
-            echo "Cuarta linea";
             echo "Voy a hacer un tercer COMMIT";
-            echo "Cuarta linea";
-            echo "Voy a hacer un cuarto COMMIT";
-            echo "Quinta linea";
-            echo "Voy a hacer un quinto COMMIT";
         ?>
     </body>
 </html>
